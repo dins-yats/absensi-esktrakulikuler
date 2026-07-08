@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dins-yats/absensi-esktrakulikuler/main/public/img/1.jpg" width="400" alt="aplikasi logo">
-</p>
-
+<p align="center"><img src="https://github.com/dins-yats/absensi-esktrakulikuler/blob/main/public/img/1.png" width="400" alt="aplikasi logo"></a></p>
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
